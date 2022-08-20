@@ -4,7 +4,7 @@
 |---|---|---|---|
 | Pain point anecdote | Chronic Conditions Potentially Preventable Hospitalisation (CC-PPH) | aihw-chc-8.pdf|https://www.aihw.gov.au/reports/health-care-quality-performance/factors-hospitalisations-chronic-conditions/summary|
 | Paint point anecdote | Disparities in PPH |aihw-hpf-50.pdf|https://www.aihw.gov.au/reports/primary-health-care/disparities-in-potentially-preventable-hospitalisations-australia/summary|
-||Disparitis in PPH data|aihw-hpf-50-51-data-tables.xlsx|https://www.aihw.gov.au/reports/primary-health-care/disparities-in-potentially-preventable-hospitalisations-exploring-the-data/data|
+||Disparities in PPH data|aihw-hpf-50-51-data-tables.xlsx|https://www.aihw.gov.au/reports/primary-health-care/disparities-in-potentially-preventable-hospitalisations-exploring-the-data/data|
 |Context|Guide to PPH indicator|A-guide-to-the-potentially-preventable-hospitalisations-indicator-in-Australia.pdf|https://www.safetyandquality.gov.au/sites/default/files/migrated/A-guide-to-the-potentially-preventable-hospitalisations-indicator-in-Australia.pdf|
 |Pain point anecdote|| No data on NT, consider as proxy |Use-of-emergency-departments-for-lower-urgency-care-2015-16-to-2018-19.pdf|https://www.aihw.gov.au/reports/primary-health-care/use-of-ed-for-lower-urgency-care-2018-19/contents/about|
 ||PHN Lower urgency care data|aihw_phc_3_data_tables.xlsx|https://www.aihw.gov.au/reports/primary-health-care/use-of-ed-for-lower-urgency-care-2018-19/data|
