@@ -13,6 +13,16 @@
 ||aihw-chc-4-data-tables.xlsx|https://www.aihw.gov.au/reports/primary-health-care/coordination-of-health-care-experiences-barriers/data|
 ||A-guide-to-the-potentially-preventable-hospitalisations-indicator-in-Australia.pdf|https://www.aihw.gov.au/reports/primary-health-care/potentially-preventable-hospitalisations/contents/about|
 |(Hobart) Healthcare providers perception on PPH in rural, small sample size, qualitative |ijerph-18-12767.pdf|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8656793/|
+||aihw-phe-236_Aust.pdf|https://www.aihw.gov.au/reports/immunisation/vaccine-preventable-diseases/contents/fact-sheets|
+||aihw-phe-236.xlsx|https://www.aihw.gov.au/reports/immunisation/vaccine-preventable-diseases/data|
+|GP care for patients with chronic conditions - any possibility for general care recommendations?|aihw-mhc-nhpa-10-gp-care-for-patients-chronic-conditions-2009-2013-report-dec-2014.pdf|https://www.aihw.gov.au/reports/primary-health-care/gp-care-patients-chronic-conditions-2009-2013/contents/summary|
+||PPH_DATA.xlsx|https://phidu.torrens.edu.au/social-health-atlases/topic-atlas/pph#potentially-preventable-hospitalisations-atlas-data|
+||Non-admitted-patient-care-tables-2020-21.xls|https://www.aihw.gov.au/reports-data/myhospitals/content/data-downloads|
+||[2-5]-admitted-patient-care-2020-21-tables-*.xlsx|https://www.aihw.gov.au/reports-data/myhospitals/content/data-downloads|
+||aihw_den_231_hospitalisations_datatables_oralhealthanddentalcareinaustralia_tranche_5_17032022-xlsx.xlsx|https://www.aihw.gov.au/reports/dental-oral-health/oral-health-and-dental-care-in-australia/data|
+||||
+||||
+||||
 ||||
 ||||
 ||||
