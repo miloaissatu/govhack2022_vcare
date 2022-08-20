@@ -35,6 +35,15 @@ Australians.
   > • Some PPH conditions showed predictable seasonal trends that can be incorporated into
 management strategies.
 
+* [Use of emergency departments for lower urgency care: 2015–16 to 2018–19](https://github.com/miloaissatu/govhack2022_vcare/blob/main/Datasets/Use-of-emergency-departments-for-lower-urgency-care-2015-16-to-2018-19.pdf) (No NT data, proxy)
+  > Findings confirm that people living in regional PHN areas continue to have a higher rate of lower urgency ED presentations (164 presentations per 1,000 people in 2018−19) than their metropolitan counterparts (90 per 1,000 people).
+  >
+  > ...
+  > 
+  ![Figure 3](Datasets/Use-of-emergency-departments-for-lower-urgency-care-2015-16-to-2018-19-fig3.png)
+
+
+
 ## Idea Proposal
 
 ### Solution Themes
