@@ -9,12 +9,12 @@
 |Pain point anecdote|| No data on NT, consider as proxy |Use-of-emergency-departments-for-lower-urgency-care-2015-16-to-2018-19.pdf|https://www.aihw.gov.au/reports/primary-health-care/use-of-ed-for-lower-urgency-care-2018-19/contents/about|
 ||PHN Lower urgency care data|aihw_phc_3_data_tables.xlsx|https://www.aihw.gov.au/reports/primary-health-care/use-of-ed-for-lower-urgency-care-2018-19/data|
 ||PPH by geography|aihw-mhc-hpf-37-datasheet-report-hc35.xlsx|https://www.aihw.gov.au/reports/hospitals/potentially-preventable-hospitalisations-2015-16/data|
-|Anecdotes|Barriers to health-care access|aihw-chc-4.pdf|https://www.aihw.gov.au/reports/primary-health-care/coordination-of-health-care-experiences-barriers/summary|
+|Pain point anecdotes|Barriers to health-care access|aihw-chc-4.pdf|https://www.aihw.gov.au/reports/primary-health-care/coordination-of-health-care-experiences-barriers/summary|
 ||Barriers to health-care access data|aihw-chc-4-data-tables.xlsx|https://www.aihw.gov.au/reports/primary-health-care/coordination-of-health-care-experiences-barriers/data|
-|||Potentially-preventable-hospitalisations-in-Australia-by-age-groups-and-small-geograph.pdf|https://www.aihw.gov.au/reports/primary-health-care/potentially-preventable-hospitalisations/contents/about|
+|Pain point anecdotes|PPH stats, categories and examples|Potentially-preventable-hospitalisations-in-Australia-by-age-groups-and-small-geograph.pdf|https://www.aihw.gov.au/reports/primary-health-care/potentially-preventable-hospitalisations/contents/about|
 ||(Hobart) Healthcare providers perception on PPH in rural, small sample size, qualitative |ijerph-18-12767.pdf|https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8656793/|
-|||aihw-phe-236_Aust.pdf|https://www.aihw.gov.au/reports/immunisation/vaccine-preventable-diseases/contents/fact-sheets|
-|||aihw-phe-236.xlsx|https://www.aihw.gov.au/reports/immunisation/vaccine-preventable-diseases/data|
+|Supporting data|Vaccine preventable disease in Australia|aihw-phe-236_Aust.pdf|https://www.aihw.gov.au/reports/immunisation/vaccine-preventable-diseases/contents/fact-sheets|
+||Vaccine preventable disease in Australia dataset|aihw-phe-236.xlsx|https://www.aihw.gov.au/reports/immunisation/vaccine-preventable-diseases/data|
 ||GP care for patients with chronic conditions - any possibility for general care recommendations?|aihw-mhc-nhpa-10-gp-care-for-patients-chronic-conditions-2009-2013-report-dec-2014.pdf|https://www.aihw.gov.au/reports/primary-health-care/gp-care-patients-chronic-conditions-2009-2013/contents/summary|
 ||PPH geographic and temporal data|PPH_DATA.xlsx|https://phidu.torrens.edu.au/social-health-atlases/topic-atlas/pph#potentially-preventable-hospitalisations-atlas-data|
 ||Non admitted ED data|Non-admitted-patient-care-tables-2020-21.xls|https://www.aihw.gov.au/reports-data/myhospitals/content/data-downloads|

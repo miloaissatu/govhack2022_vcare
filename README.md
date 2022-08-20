@@ -73,6 +73,19 @@ aged 45 and over
 
 </details>
 
+<details>
+<summary><a href="https://github.com/miloaissatu/govhack2022_vcare/blob/main/Datasets/Potentially-preventable-hospitalisations-in-Australia-by-age-groups-and-small-geograph.pdf">Potentially preventable hospitalisations in Australia by age groups and small geographic areas, 2017–18</a></summary>
+
+  > Around 7% of all hospitalisations were classified as potentially preventable
+  >
+  > Nearly 10% of all hospital bed days were for potentially preventable hospitalisations
+  >
+  > There were nearly 748,000 potentially preventable hospitalisations in Australia in 2017–18
+  >
+  > Rates of potentially preventable hospitalisations varied greatly across local areas
+
+</details>
+
 ## Idea Proposal
 
 ### Solution Themes
