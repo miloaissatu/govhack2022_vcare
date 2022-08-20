@@ -35,14 +35,35 @@ Australians.
   > • Some PPH conditions showed predictable seasonal trends that can be incorporated into
 management strategies.
 
-* [Use of emergency departments for lower urgency care: 2015–16 to 2018–19](https://github.com/miloaissatu/govhack2022_vcare/blob/main/Datasets/Use-of-emergency-departments-for-lower-urgency-care-2015-16-to-2018-19.pdf) (No NT data, proxy)
+<details>
+<summary><a href="https://github.com/miloaissatu/govhack2022_vcare/blob/main/Datasets/Use-of-emergency-departments-for-lower-urgency-care-2015-16-to-2018-19.pdf">Use of emergency departments for lower urgency care: 2015–16 to 2018–19 (No NT data, proxy)</a></summary>
+
   > Findings confirm that people living in regional PHN areas continue to have a higher rate of lower urgency ED presentations (164 presentations per 1,000 people in 2018−19) than their metropolitan counterparts (90 per 1,000 people).
   >
   > ...
   > 
   ![Figure 3](Datasets/Use-of-emergency-departments-for-lower-urgency-care-2015-16-to-2018-19-fig3.png)
 
+</details>
 
+<details>
+<summary><a href="https://github.com/miloaissatu/govhack2022_vcare/blob/main/Datasets/aihw-chc-4.pdf">Coordination of health care: experiences of barriers to accessing health services among patients
+aged 45 and over
+2016</a></summary>
+
+  > One of the most commonly reported reasons for not seeing a GP when needed was that there was no appointment available. There are potential flow-on effects of not being able to see a GP when needed because of long waiting times, or not being able to get an appropriate appointment time.
+  > 
+  > Not being able to get an appointment when needed can be associated with increased emergency department use. A study of unnecessary use of emergency departments by older people in Adelaide found that the lack of availability of GP services appeared to be a contributing factor to presenting at an emergency department (Faulkner & Law, 2015). The patient responses in that study potentially highlight a difficulty in obtaining an appropriate GP appointment time when needed, which is consistent with the findings of this report.
+  >
+  > ...
+  > 
+  > Patients living in Remote and very remote areas were more likely than those in Major cities to report that the reason for not seeing a GP or specialist was because there were no GPs or specialists nearby. The undersupply and uneven distribution of medical professionals in rural regions is well documented.
+  > 
+  > ...
+  > 
+  > This report has found some associations between some patient sociodemographic characteristics and patient-reported barriers to accessing health-care services. But there are also environmental and social factors—such as a lack of culturally acceptable services or long waiting lists or waiting times— beyond a patient’s control that affect access to health care. These many factors all need to be taken into account when developing policies and future plans to address issues of access to health care.
+
+</details>
 
 ## Idea Proposal
 
