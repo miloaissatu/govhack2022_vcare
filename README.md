@@ -8,12 +8,17 @@ Challenge: [Meeting short term health needs outside of a hospital](https://hacke
 
 ## Pain Points
 
-Anecdotes
-* [Coordination of health care: patient and primary care factors associated with potentially preventable hospitalisations for chronic conditions](https://github.com/miloaissatu/govhack2022_vcare/blob/main/Datasets/aihw-chc-8.pdf):
+#### Anecdotes
+
+<details>
+<summary><a href="https://github.com/miloaissatu/govhack2022_vcare/blob/main/Datasets/aihw-chc-8.pdf">Coordination of health care: patient and primary care factors associated with potentially preventable hospitalisations for chronic conditions</a></summary>
 
   > The findings of our study are consistent with other studies, which also find that the health of individuals is the most important factor driving PPH admissions (Falster et. al. 2015, Tran et. al. 2014, Khanna, et. al. 2019, Youens et. al., 2019), but they also point to the importance of access to GPs in chronic condition management. Barriers to access such as cost or poor GP availability does not differ substantially by hospitalisation type (or for those without hospitalisations).
 
-* [Disparities in potentially preventable hospitalisations across Australia, 2012–13 to 2017–18](https://github.com/miloaissatu/govhack2022_vcare/blob/main/Datasets/aihw-hpf-50.pdf)
+</details>
+
+<details>
+<summary><a href="https://github.com/miloaissatu/govhack2022_vcare/blob/main/Datasets/aihw-hpf-50.pdf">Disparities in potentially preventable hospitalisations across Australia, 2012–13 to 2017–18</a></summary>
 
   > The report confirms findings from previous studies, showing that between 2012–13 and 2017–18: 
   > 
@@ -34,6 +39,9 @@ Australians.
   >
   > • Some PPH conditions showed predictable seasonal trends that can be incorporated into
 management strategies.
+
+
+</details>
 
 <details>
 <summary><a href="https://github.com/miloaissatu/govhack2022_vcare/blob/main/Datasets/Use-of-emergency-departments-for-lower-urgency-care-2015-16-to-2018-19.pdf">Use of emergency departments for lower urgency care: 2015–16 to 2018–19 (No NT data, proxy)</a></summary>
