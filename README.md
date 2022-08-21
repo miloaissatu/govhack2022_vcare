@@ -98,7 +98,9 @@ aged 45 and over
 
 ## Idea Proposal
 
-[V-CARE.pdf Presentation](./V-CARE.pdf)
+[V CARE.pdf Presentation](./V-CARE.pdf)
+
+[V Care video](./V-CARE.mp4)
 
 V Care puts health care at the fingertips of the community by
 
