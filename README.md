@@ -88,6 +88,14 @@ aged 45 and over
 
 ## Idea Proposal
 
+V-care puts health care at the fingertips of the community by
+
+* consolidating key resources and information
+* screening questions to advise most suitable care touch point
+* proactive and preemptive care via health bulletins, personalised care prompts
+
+V-care helps the health network by increasing awareness of the community to the resources available to them so as not to strain the Hospital system for concerns that can be managed via other channels. It also helps connect more communities with lesser local health care facilities with existing nationwide resources. 
+
 ### Solution Themes
 
 Emphasis on potentially preventable hospitalisations (PPH) and avoidance of Emergency Departments (ED) for lower urgency care through personalised guidance to appropriate care touch points.
@@ -101,4 +109,8 @@ Emphasis on potentially preventable hospitalisations (PPH) and avoidance of Emer
 * Data gathering from users of platform to inform local initiatives e.g. frequency of mobile clinic/lab visits.
 
 
-### Addressable Audience (?)
+## Interactive Mock-up
+
+https://apps.powerapps.com/play/e/7d9cb689-9338-e90d-80ae-5beb99d6b0ca/a/90b6e49b-ce72-4c2e-a887-ebd8ff4c218b?tenantId=1cb7f187-572f-4926-ab9c-483d8c4c6ee1&source=AppSharedToContributorV2&hint=21aa3f32-ad21-44e6-8170-197ff3ad6f23
+
+Credentials:
