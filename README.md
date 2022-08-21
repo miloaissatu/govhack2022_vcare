@@ -6,9 +6,19 @@ Challenge: [Meeting short term health needs outside of a hospital](https://hacke
 
 ## Problem Statement
 
+> *How can we use available technologies to support people’s health needs and stay out of hospital?*
+
+> There is ever increasing pressure on hospital Emergency Departments. Some hospitals have a GP service on site to try and reduce this pressure for those people with minor ailments, however this is not the only solution.
+In addition, during the recent pandemic, it was important to minimise the number of people coming to hospitals to reduce risks related to COVID infection.
+What technology options could enable people to manage their health and wellness without attending a hospital?
+
 ## Pain Points
 
-#### Anecdotes
+* Low urgency care at hospitals cause capacity issues.
+* During outbreaks, hospitals are locations with high infection risk
+* Chronic condition care, vaccine preventable disease, acute conditions and early action identified as being primary categories for potentially preventable hospitalisation and avoiding emergency departments for low urgency care. This is more prevalent in communities with less access to GPs and other health care facilities.
+
+### Anecdotes
 
 <details>
 <summary><a href="https://github.com/miloaissatu/govhack2022_vcare/blob/main/Datasets/aihw-chc-8.pdf">Coordination of health care: patient and primary care factors associated with potentially preventable hospitalisations for chronic conditions</a></summary>
@@ -90,8 +100,14 @@ aged 45 and over
 
 V-care puts health care at the fingertips of the community by
 
-* consolidating key resources and information
+* consolidating key health resources and information
 * screening questions to advise most suitable care touch point
+  * self care / over the counter / pharmacy
+  * telephony - nurses
+  * telephony/video - doctors
+  * nearest clinics, next available appointments
+  * emergency department / hospital
+
 * proactive and preemptive care via health bulletins, personalised care prompts
 
 V-care helps the health network by increasing awareness of the community to the resources available to them so as not to strain the Hospital system for concerns that can be managed via other channels. It also helps connect more communities with lesser local health care facilities with existing nationwide resources. 
