@@ -14,7 +14,7 @@ What technology options could enable people to manage their health and wellness 
 
 ## Pain Points
 
-* Low urgency care at hospitals cause capacity issues.
+* Low urgency care uses precious hospital capacity.
 * During outbreaks, hospitals are locations with high infection risk
 * Chronic condition care, vaccine preventable disease, acute conditions and early action identified as being primary categories for potentially preventable hospitalisation and avoiding emergency departments for low urgency care. This is more prevalent in communities with less access to GPs and other health care facilities.
 
