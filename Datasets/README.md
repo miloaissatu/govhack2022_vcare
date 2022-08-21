@@ -22,3 +22,4 @@
 ||Oral health hospitalisations data|aihw_den_231_hospitalisations_datatables_oralhealthanddentalcareinaustralia_tranche_5_17032022-xlsx.xlsx|https://www.aihw.gov.au/reports/dental-oral-health/oral-health-and-dental-care-in-australia/data|
 |Context|Aboriginal and Torres Strait Islander health||https://health.nt.gov.au/professionals/aboriginal-and-torres-strait-islander-health|
 |Strategy alignment|NT Health Strategic Plan|Northern Territory Health Strategic Plan.pdf|https://digitallibrary.health.nt.gov.au/prodjspui/bitstream/10137/2729/3/Northern%20Territory%20Health%20Strategic%20Plan.pdf|
+| Presentation | Excerpts from publications | snippets_w_sources.pptx ||
