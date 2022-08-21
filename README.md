@@ -1,4 +1,4 @@
-# #GovHack2022: V Care
+# #GovHack2022: V-Care
 
 #GovHack2022 MATRIX - Project 1927
 
@@ -98,11 +98,11 @@ aged 45 and over
 
 ## Idea Proposal
 
-[V CARE.pdf Presentation](./V-CARE.pdf)
+[V-Care Presentation](./V-CARE.pdf)
 
-[V Care video](./V-CARE.mp4)
+[V-Care video](./V-CARE.mp4)
 
-V Care puts health care at the fingertips of the community by
+V-Care puts health care at the fingertips of the community by
 
 * consolidating key health resources and information
 * screening questions to advise most suitable care touch point
@@ -114,7 +114,7 @@ V Care puts health care at the fingertips of the community by
 
 * proactive and preemptive care via health bulletins, personalised care prompts
 
-V Care helps the health network by increasing awareness of the community to the resources available to them so as not to strain the Hospital system for concerns that can be managed via other channels. It also helps connect more communities with lesser local health care facilities with existing nationwide resources. 
+V-Care helps the health network by increasing awareness of the community to the resources available to them so as not to strain the Hospital system for concerns that can be managed via other channels. It also helps connect more communities with lesser local health care facilities with existing nationwide resources. 
 
 ### Solution Themes
 
